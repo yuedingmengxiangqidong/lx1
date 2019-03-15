@@ -1,0 +1,16 @@
+target/
+.svn/
+.settings/
+.classpath
+.project
+.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch
+.idea/
+.idea
+*.iml
+node_modules/
+.DS_Store
+src/main/webapp/static/
+src/main/webapp/test/
+generator-output/
+logback.log.*/
+/log.txt
